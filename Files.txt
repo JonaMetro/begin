@@ -1,1 +1,4 @@
 What is up ma dudes!?
+
+You would prefer to use a manual pull, because there can be many commits
+into the remote repository when working on it.
